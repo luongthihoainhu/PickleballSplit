@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite --config client/vite.config.ts",
     "build": "vite build --config client/vite.config.ts",
-    "preview": "vite preview --config client/vite.config.ts"
+    "preview": "vite preview --config client/vite.config.ts",
     "check": "tsc",
     "db:push": "drizzle-kit push"
   },
